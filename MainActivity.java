@@ -2,7 +2,7 @@ package edu.calvin.akg8.lab01;
 
 /*
 * Lab01
-* This simple app creates a toast
+* This activity implements a toast in an app
 *
 * @author: Andrew Gbeddy
 * @version: fall 2016
