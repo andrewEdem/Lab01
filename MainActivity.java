@@ -1,5 +1,13 @@
 package edu.calvin.akg8.lab01;
 
+/*
+* Lab01
+* This simple app creates a toast
+*
+* @author: Andrew Gbeddy
+* @version: fall 2016
+*/
+
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
